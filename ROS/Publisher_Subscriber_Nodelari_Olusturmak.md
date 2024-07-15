@@ -64,9 +64,9 @@ return 0;
 
 Bu işlemleri yaptıktan sonra CMakeList.txt ve package.xml dosyalarında bazı küçük değişiklikler yapacağız. Eğer biz node larımızı python ile yazmış olsaydık bu ek düzenlemeleri yapamamıza gerek yoktu.
 
-![Untitled](Publisher-Subscriber%20Nodelar%C4%B1%20Olus%CC%A7turmak%2023fa2f4a0cba4890927774dd0ac57aa1/Untitled.png)
+![Untitled](images/Publisher_Subscriber_Nodelari_Olusturmak/Untitled.png)
 
-![Untitled](Publisher-Subscriber%20Nodelar%C4%B1%20Olus%CC%A7turmak%2023fa2f4a0cba4890927774dd0ac57aa1/Untitled%201.png)
+![Untitled](images/Publisher_Subscriber_Nodelari_Olusturmak/Untitled%201.png)
 
 ---
 
@@ -89,12 +89,12 @@ gedit ~/.bashrc //dosyayı açıyoruz ve bu paketin adresini eklememiz gerekiyor
 source /home/kullaniciad/paketismi/devel/setup.bash // bu adresi açılan dosyanın sonuna ekliyoruz.
 ```
 
-![Untitled](Publisher-Subscriber%20Nodelar%C4%B1%20Olus%CC%A7turmak%2023fa2f4a0cba4890927774dd0ac57aa1/Untitled%202.png)
+![Untitled](images/Publisher_Subscriber_Nodelari_Olusturmak/Untitled%202.png)
 
 ilk önce publisher ın yayın yapması gerektiğini unutma.
 
 eğer publisher yayın bırakırsa otomatik olarak subscriber a birşey gitmez. ve eğer devam ederse otomatik olarak devam eder
 
-![Untitled](Publisher-Subscriber%20Nodelar%C4%B1%20Olus%CC%A7turmak%2023fa2f4a0cba4890927774dd0ac57aa1/Untitled%203.png)
+![Untitled](images/Publisher_Subscriber_Nodelari_Olusturmak/Untitled%203.png)
 
 ---

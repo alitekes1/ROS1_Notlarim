@@ -10,19 +10,19 @@ Hesaplamaların gerçekleştiği proseslerdir.Düğümler kullanılarak gelişti
 
 ### Konular
 
-![Untitled](ROS%20Kavramlar%C4%B1%20c72149bb795d42d489fa115a5630bd1e/Untitled.png)
+![Untitled](images/ROS_Kavramlari/Untitled.png)
 
-![Untitled](ROS%20Kavramlar%C4%B1%20c72149bb795d42d489fa115a5630bd1e/Untitled%201.png)
+![Untitled](images/ROS_Kavramlari/Untitled%201.png)
 
 ### Servisler
 
 İki düğüm arasında istemci/sunucu şeklinde senkron bir yapı kurulmak istendiğinde servisler kullanılır. Bu yapıda servise istek göndermekte ve servis den cavap gelene kadar istemci beklemektedir.
 
-![Untitled](ROS%20Kavramlar%C4%B1%20c72149bb795d42d489fa115a5630bd1e/Untitled%202.png)
+![Untitled](images/ROS_Kavramlari/Untitled%202.png)
 
-![Untitled](ROS%20Kavramlar%C4%B1%20c72149bb795d42d489fa115a5630bd1e/Untitled%203.png)
+![Untitled](images/ROS_Kavramlari/Untitled%203.png)
 
-![Untitled](ROS%20Kavramlar%C4%B1%20c72149bb795d42d489fa115a5630bd1e/Untitled%204.png)
+![Untitled](images/ROS_Kavramlari/Untitled%204.png)
 
 ### ROSCORE
 

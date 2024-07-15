@@ -4,9 +4,9 @@ Ros yapı olarak düğüm- mesaj - konu - servis ana konseptlerinde oluşur.
 
 Düğüm proseslerin işlendiği yerdir.bu düğümler arasındaki haberleşme mesajlar ile gerçekleşmektedir.Mesajlar konular üzerinden aktarılmaktadır.Konular yayıncı-abone yapısında haberleşmektedir.bundan dolayı konular asenktron haberleşme sağlamaktadır.Yani belli bir sıra yoktur. Farklı görevler aynı anda gerçekleşebilmektedir.
 
-![Untitled](ROS%20Nedir%20e9323894d6cb41748f0577894b7f3e03/Untitled.png)
+![Untitled](images/ROS_Nedir%20/Untitled.png)
 
-![Untitled](ROS%20Nedir%20e9323894d6cb41748f0577894b7f3e03/Untitled%201.png)
+![Untitled](images/ROS_Nedir%20/Untitled%201.png)
 
 package.xml dosyasında herbir pakedin lisans bilgileri bağımlılıkları derleyici işaretleri gibi bilgileri saklanır.
 
@@ -22,4 +22,4 @@ Ros daki servislerin haberleşmesi için kullanılan servis tipleridir. Mesaj ti
 
 ---
 
-![Untitled](ROS%20Nedir%20e9323894d6cb41748f0577894b7f3e03/Untitled%202.png)
+![Untitled](images/ROS_Nedir%20/Untitled%202.png)

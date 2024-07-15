@@ -40,7 +40,7 @@ birden fazla dosyayı birleştirmek için cat komutu kullanılır. **cat dosya1.
 
 Bir program işlemler toplamıyken ,bir proses bunların gerçek ortamda yürütülmesidir.Linux işletim sisteminde her prosesin bir id değeri vardır.Buna PID (process id) denir. O ank itüm process leri görmek için ps komutu ,son process in id değerini görmek için ise  echo $$ kullanılır. 
 
-![Untitled](Temel%20komutlar%20e1775f129bde49b3b3c3aa2b3f98012d/Untitled.png)
+![Untitled](images/Temel%20komutlar/Untitled.png)
 
 ---
 

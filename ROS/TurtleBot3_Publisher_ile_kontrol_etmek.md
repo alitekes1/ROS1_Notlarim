@@ -2,7 +2,7 @@
 
 İlk once turttlebot 3 u kendi ws imize implemente etmemiz gerekiyor. 
 
-![Untitled](TurtleBot3%20u%20publisher%20ile%20kontrol%20etmek%208a926c1084f04fb987dd4a83ff4442eb/Untitled.png)
+![Untitled](images/TurtleBot3_Publisher_ile_kontrol_etmek/Untitled.png)
 
 ardından deneme_pkg içerinde src içine bir tane publisher düğümü yazıyoruz. Robotun hareketini sağlayan mesaj tipi geometry_msgs olduğu için publisher düğümümüzüde buna uygun bir şekilde yazmamız gerekiyor.turtlebot3 twist tipindeki mesajlara göre hareket ediyor.
 

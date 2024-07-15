@@ -1,4 +1,4 @@
-# Message (.msg) dosyaları ve Paket üzerinde kullanımı
+# Özel Message (.msg) dosyaları ve Paket üzerinde kullanımı
 
 Yayıncı ve abonelerin mesajlar yardımıyla haberleşmesini sağlayan .msg uzantılı basit metin dosyalarıdır. Paket içerisinde msg klasorunun içerisinde bulunması tavsiye edilir.
 
@@ -14,9 +14,9 @@ array[] months
 
 Bir message dosyası oluşturmak için paket içierisinde msg dosyasının içinde .msg uzantılı bir dosya oluşturuyoruz. ardından bu dosyaya istediğimiz veri tiplerini ve bu değişkenin adının yazıyoruz. Her değişken tek satırda olmasına dikkat ediyoruz.generate_messages kütüphanesi eklememizin sebebi kendi msg dosyamızı bu kütüphane sayesinde oluşturuyoruz.
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled.png)
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%201.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%201.png)
 
 ***Ardından package.xml ve cmakelist dosyalarında bazı değişiklikler yapmalıyız.*** 
 
@@ -24,20 +24,20 @@ Bunlar cmakelist te
 
 - find_package() fonksiyonuna message_generation ı eklemek
     
-    ![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%202.png)
+    ![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%202.png)
     
 
 - add_message_files() fonksiyonuna oluşturduğumuz mesaj dosyasını uzantısıyla beraber eklemek
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%203.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%203.png)
 
 - generate_messages() fonksiyonuna std_msgs pakedini eklemek
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%204.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%204.png)
 
 - catkin_package() a da message_runtime ı eklemek
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%205.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%205.png)
 
 Package.xml de 
 
@@ -45,7 +45,7 @@ Package.xml de
 - build_export_depend olarak message_runtime eklemek
 - exec_depend olarak message_runtime eklemek
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%206.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%206.png)
 
 ---
 
@@ -100,4 +100,4 @@ int main(int argc,char**argv){
 return 0;
 ```
 
-![Untitled](Message%20(%20msg)%20dosyalar%C4%B1%20ve%20Paket%20u%CC%88zerinde%20kullan%206ff805ad51424382a3471ac8565fb6ba/Untitled%207.png)
+![Untitled](images/Message_(msg)_dosyalari_ve_Paket_Uzerinde_Kullanimi/Untitled%207.png)

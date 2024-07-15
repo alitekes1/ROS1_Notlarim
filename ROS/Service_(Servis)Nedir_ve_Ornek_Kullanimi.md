@@ -80,8 +80,8 @@ int main(int argc, char **argv)
 
 Ardından cmakelist.txt de bazı düzenlemeler yapmalıyız.Sonra da catkin_make yaptıktan sonra service imiz hazır.
 
-![Untitled](Service%20(Servis)%20nedir%20ve%20O%CC%88rnek%20Kullan%C4%B1m%C4%B1%20cf886159306246fc8cb15146d0f30ff8/Untitled.png)
+![Untitled](images/Service_(Servis)Nedir_ve_Ornek_Kullanimi/Untitled.png)
 
-![Untitled](Service%20(Servis)%20nedir%20ve%20O%CC%88rnek%20Kullan%C4%B1m%C4%B1%20cf886159306246fc8cb15146d0f30ff8/Untitled%201.png)
+![Untitled](images/Service_(Servis)Nedir_ve_Ornek_Kullanimi/Untitled%201.png)
 
-![Untitled](Service%20(Servis)%20nedir%20ve%20O%CC%88rnek%20Kullan%C4%B1m%C4%B1%20cf886159306246fc8cb15146d0f30ff8/Untitled%202.png)
+![Untitled](images/Service_(Servis)Nedir_ve_Ornek_Kullanimi/Untitled%202.png)

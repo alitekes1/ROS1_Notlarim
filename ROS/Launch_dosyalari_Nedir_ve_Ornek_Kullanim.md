@@ -25,6 +25,6 @@ launch dosyasını çalıştırmak için roscore un çalışmasına gerek yok za
 roslaunch deneme_pkg dosyaIsmi.launch 
 ```
 
-![Untitled](Launch%20dosyalar%C4%B1%20Nedir%20ve%20O%CC%88rnek%20Kullan%C4%B1m%200416f86931804b09b5c7951543b3bdde/Untitled.png)
+![Untitled](images/Launch_dosyalari_Nedir_ve_Ornek_Kullanim/Untitled.png)
 
-![Untitled](Launch%20dosyalar%C4%B1%20Nedir%20ve%20O%CC%88rnek%20Kullan%C4%B1m%200416f86931804b09b5c7951543b3bdde/Untitled%201.png)
+![Untitled](images/Launch_dosyalari_Nedir_ve_Ornek_Kullanim/Untitled%201.png)

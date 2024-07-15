@@ -4,7 +4,7 @@ Ros da c++ veya python ile yazılan her biri belli bir görevi yerine getiren bi
 
 İşleyiş şekli ise bir node bir topic e bir yayın yapar ve bu alıcıdan bağımsızdır. Bu topic e abone olan herkes bu yayınlanan mesajı alabilir.
 
-![Untitled](Node%20ve%20Topic%20Nedir%201ad8be0ece07407ab11c7ede15e3e30a/Untitled.png)
+![Untitled](images/Node_ve_Topic_Nedir/Untitled.png)
 
 Buradaki Publisher ve Subscriber birer Node dur. ve bunlar c++ veya python ile yazılabilir.Aşağıda örnek bir publisher nodu bulunmaktadır.
 
