@@ -30,4 +30,4 @@
 
 [ROS & MATLAB](ROS/ROS_MATLAB.md)
 
-[chat-openai-com-share-e7260d1e-999b-4447-986b-0b8fd6b864cf.pdf](ROS/chatgpt_ile_soru_cevap.pdf.pdf)
+[ChatGPT ile Soru-Cevap.pdf](ROS/chatgpt_ile_soru_cevap.pdf)

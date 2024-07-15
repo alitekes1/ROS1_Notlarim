@@ -20,7 +20,7 @@ twist.linear.x=0.1;
 twist.angular.z=0.5;//radyan cinsinden değer alır
 ```
 
-![Untitled](geometry_msgs%20fa2f58b2dfec48958d38a1f9a9e2b3da/Untitled.png)
+![Untitled](../images/geometry_msgs/Untitled.png)
 
  
 
