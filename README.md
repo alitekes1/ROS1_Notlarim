@@ -1,5 +1,11 @@
 # ROS1 Notlarım
 
+Her seviyeden kullanıcı için faydalı olabilecek bu notlar, özellikle başlangıç seviyesindeki kullanıcıların hızlı bir şekilde ROS 1'e adapte olmalarına yardımcı olmayı amaçlamaktadır. Ayrıca, çeşitli pratik uygulamalar ve ipuçları ile daha ileri seviye kullanıcılar için de kaynak sağlamaktadır.
+
+Bu repo aynı zamanda topluluk katkılarına açıktır. Diğer kullanıcılar da bu repoyu genişletmeme yardımcı olabilirler. Eğer yeni bir branch oluşturarak katkıda bulunmak isterseniz, değişikliklerinizi gözden geçirip ana branşa dahil etmekten memnuniyet duyarım. 
+
+Notlarımı düzenli olarak güncelleyip genişletmeye çalıştım, ancak artık ROS2 öğrenmeye başladığım için bu notları güncelleme ve genişletme çalışmalarım sona erecektir. Yine de, mevcut içeriklerin faydalı olacağını umuyorum. Herhangi bir öneriniz veya sorunuz olursa lütfen iletişime geçmekten çekinmeyin.
+
 [ROS Nedir?](ROS/ROS_Nedir.md)
 
 [ROS Kavramları](ROS/ROS_Kavramlari.md)
